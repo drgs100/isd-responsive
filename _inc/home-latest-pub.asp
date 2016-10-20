@@ -121,5 +121,3 @@
         </div>
         
         <p class="pull-right"><a href="publications/">See all Publications</a></p>
-
-    </div>
